@@ -1,8 +1,11 @@
 {
   "name": "osrs-leprechaun",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "bin/startServer.js",
+  "engines": {
+    "node": ">=10"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
